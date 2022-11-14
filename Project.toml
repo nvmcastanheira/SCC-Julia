@@ -1,11 +1,9 @@
-names = ["Nuno"]
-author = ["Nuno"]
-uuid = ["704d151e-bacf-4921-8119-5fc2f1ecbf3f"]
-version = "1.0"
+name = "Plots"
+uuid = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+author = ["Tom Breloff (@tbreloff)"]
+version = "1.36.1"
 
 [deps]
-Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
-
 Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 Contour = "d38c429a-6771-53c6-b99e-75d170b6e991"
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
@@ -111,3 +109,17 @@ VisualRegressionTests = "34922c18-7c2a-561c-bac1-01e79b2c4c92"
 
 [targets]
 test = ["Aqua", "Colors", "Conda", "Distributions", "FileIO", "FilePathsBase", "Gaston", "GeometryBasics", "Gtk", "ImageMagick", "Images", "InspectDR", "LibGit2", "OffsetArrays", "PGFPlotsX", "PlotlyJS", "PlotlyBase", "PyCall", "PyPlot", "PlotlyKaleido", "HDF5", "RDatasets", "SentinelArrays", "StableRNGs", "StaticArrays", "StatsPlots", "Test", "TestImages", "UnicodePlots", "Unitful", "VisualRegressionTests"]
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
